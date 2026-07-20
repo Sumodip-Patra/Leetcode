@@ -21,7 +21,7 @@ public:
             ref=ref->next;
         }        
 
-        //if(ref==NULL) return NULL;
+        
         
         // both will moving till ref-> next != NULL while maintaining the len-k+1 distance
         while(ref!=NULL){
