@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sumodip-Patra/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sumodip-Patra/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sumodip-Patra/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sumodip-Patra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0818-race-car](https://github.com/Sumodip-Patra/Leetcode/tree/master/0818-race-car) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sumodip-Patra/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sumodip-Patra/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Stack
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Sumodip-Patra/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Sumodip-Patra/Leetcode/tree/master/0212-word-search-ii) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sumodip-Patra/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -175,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Sumodip-Patra/Leetcode/tree/master/0212-word-search-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sumodip-Patra/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Bitmask
+|  |
+| ------- |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sumodip-Patra/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 <!---LeetCode Topics End-->
