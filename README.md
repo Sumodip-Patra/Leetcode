@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sumodip-Patra/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Sumodip-Patra/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Sumodip-Patra/Leetcode/tree/master/0087-scramble-string) |
+| [0126-word-ladder-ii](https://github.com/Sumodip-Patra/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0179-largest-number](https://github.com/Sumodip-Patra/Leetcode/tree/master/0179-largest-number) |
 ## Sorting
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Sumodip-Patra/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
 ## Geometry
 |  |
@@ -150,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sumodip-Patra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Sumodip-Patra/Leetcode/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Sumodip-Patra/Leetcode/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Sumodip-Patra/Leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
