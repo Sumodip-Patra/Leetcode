@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumodip-Patra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Sumodip-Patra/Leetcode/tree/master/0179-largest-number) |
+| [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sumodip-Patra/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sumodip-Patra/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Two Pointers
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Sumodip-Patra/Leetcode/tree/master/0179-largest-number) |
+| [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sumodip-Patra/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sumodip-Patra/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sumodip-Patra/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Dynamic Programming
@@ -110,4 +113,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
