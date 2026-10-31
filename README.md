@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sumodip-Patra/Leetcode/tree/master/0002-add-two-numbers) |
+| [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumodip-Patra/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Sumodip-Patra/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumodip-Patra/Leetcode/tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumodip-Patra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Sumodip-Patra/Leetcode/tree/master/0179-largest-number) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Sumodip-Patra/Leetcode/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -92,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0818-race-car](https://github.com/Sumodip-Patra/Leetcode/tree/master/0818-race-car) |
+## Hash Table
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
