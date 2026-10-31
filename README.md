@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Sumodip-Patra/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Sumodip-Patra/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Sumodip-Patra/Leetcode/tree/master/0087-scramble-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sumodip-Patra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0818-race-car](https://github.com/Sumodip-Patra/Leetcode/tree/master/0818-race-car) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sumodip-Patra/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Stack
@@ -133,4 +134,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Sumodip-Patra/Leetcode/tree/master/0218-the-skyline-problem) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sumodip-Patra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sumodip-Patra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sumodip-Patra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Sumodip-Patra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
