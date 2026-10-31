@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sumodip-Patra/Leetcode/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/Sumodip-Patra/Leetcode/tree/master/0179-largest-number) |
 ## Sorting
 |  |
@@ -68,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sumodip-Patra/Leetcode/tree/master/0072-edit-distance) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Sumodip-Patra/Leetcode/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->
