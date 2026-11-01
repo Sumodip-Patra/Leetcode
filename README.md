@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sumodip-Patra/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sumodip-Patra/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sumodip-Patra/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Sumodip-Patra/Leetcode/tree/master/0044-wildcard-matching) |
 ## Number Theory
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Sumodip-Patra/Leetcode/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Sumodip-Patra/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumodip-Patra/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Sumodip-Patra/Leetcode/tree/master/0179-largest-number) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumodip-Patra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sumodip-Patra/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Sumodip-Patra/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sumodip-Patra/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Sumodip-Patra/Leetcode/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/Sumodip-Patra/Leetcode/tree/master/0126-word-ladder-ii) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sumodip-Patra/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumodip-Patra/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Sumodip-Patra/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sumodip-Patra/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Sumodip-Patra/Leetcode/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sumodip-Patra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
