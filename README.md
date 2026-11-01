@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sumodip-Patra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Sumodip-Patra/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sumodip-Patra/Leetcode/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/Sumodip-Patra/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumodip-Patra/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Sumodip-Patra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumodip-Patra/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sumodip-Patra/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sumodip-Patra/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Sumodip-Patra/Leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Sumodip-Patra/Leetcode/tree/master/0087-scramble-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sumodip-Patra/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumodip-Patra/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sumodip-Patra/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sumodip-Patra/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Sumodip-Patra/Leetcode/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sumodip-Patra/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
